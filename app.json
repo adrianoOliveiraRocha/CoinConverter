@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Conversor de Moedas",
+    "slug": "conversor-de-moedas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-7854818002814670~1046829490"
+      },
+      "permissions" : [],
+      "package": "moedas.de.conversor.w3s",
+      "versionCode": 3
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

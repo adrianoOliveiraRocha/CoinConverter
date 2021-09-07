@@ -1,0 +1,18 @@
+Dolar comercial: 'https://economia.awesomeapi.com.br/all/USD-BRL'
+flags: https://www.flaticon.com/packs/countrys-flags
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+https://financeone.com.br/conversor-de-moedas/
+
+
+app-ads.txt
+google.com, pub-7854818002814670, DIRECT, f08c47fec0942fa0
+Publish your app-ads.txt on the root of your developer website 
+(for example, sampledomain.com/app-ads.txt). Make sure that the domain is entered exactly as 
+listed on Google Play or the App Store.
+
+error:
+I see you’re on node version 12.6. Try downgrading (I personally use nvm so I can change node/npm versions at will).
+
+Although not the same error, I experienced an issue during the opt-in cli workflow and downgrading node fixed things for me.
